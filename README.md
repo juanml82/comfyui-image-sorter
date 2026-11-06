@@ -119,6 +119,7 @@ Same subjects, same location, different actions, two different clusters. Good.
 
 Needs manual merging, despite working as intended
 ![Main view](screenshots/example_5.png)
+
 While they should be clustered, the different action and subject names groups them separately and need manual grouping.
 
 ### **Fifth step**
