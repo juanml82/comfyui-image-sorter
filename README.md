@@ -114,11 +114,11 @@ Basically, what you have here is a basic looking image gallery. Image thumbnails
 Once you're done - and depending on your image collection, this could take a while - you save *overwriting* the original merged.jsonl file. This is critical: **there is no autosave.** The file is located in the same directory as the images you're sorting.
 
 Good example:
-![Main view](assets/example_3.png)
+![Main view](screenshots/example_3.png)
 Same subjects, same location, different actions, two different clusters. Good.
 
 Needs manual merging, despite working as intended
-![Main view](assets/example_5.png)
+![Main view](screenshots/example_5.png)
 While they should be clustered, the different action and subject names groups them separately and need manual grouping.
 
 ### **Fifth step**
