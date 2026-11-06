@@ -1,0 +1,8 @@
+openai>=1.0
+pywebview>=4.0
+fastapi>=0.100
+uvicorn[standard]>=0.24
+pillow>=10.0
+diskcache>=5.0
+proxy-tools
+customtkinter
